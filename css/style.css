@@ -1,0 +1,17 @@
+body {
+  margin-top: 50px;
+}
+
+.container {
+  width: 500px;
+}
+
+.logo, h4 {
+  font-family: 'Source Code Pro', sans-serif;
+}
+
+.logo, h4, a {
+  color: #BA0046;
+}
+
+
