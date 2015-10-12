@@ -14,4 +14,6 @@ body {
   color: #BA0046;
 }
 
-
+ul#peopleOfInterest > li > a {
+    color:black!important;
+}
